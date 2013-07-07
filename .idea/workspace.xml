@@ -4,7 +4,7 @@
     <list default="true" id="b20db959-c4ae-40b7-9555-5817e58b477f" name="Default" comment="" />
     <ignored path="node-range.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/app.js" changelist="b20db959-c4ae-40b7-9555-5817e58b477f" time="1373199675302" ignored="false" />
+    <file path="/app.js" changelist="b20db959-c4ae-40b7-9555-5817e58b477f" time="1373201180397" ignored="false" />
     <file path="/package.json" changelist="b20db959-c4ae-40b7-9555-5817e58b477f" time="1373199541638" ignored="false" />
     <file path="/test.js" changelist="b20db959-c4ae-40b7-9555-5817e58b477f" time="1373129036043" ignored="false" />
     <file path="/main.js" changelist="b20db959-c4ae-40b7-9555-5817e58b477f" time="1373128514656" ignored="false" />
@@ -68,10 +68,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="14" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0">
+            <state line="14" column="11" selection-start="420" selection-end="420" vertical-scroll-proportion="0.6287425">
               <folding />
             </state>
           </provider>
@@ -80,7 +80,7 @@
       <file leaf-file-name="layout.ejs" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/layout.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="16" selection-start="91" selection-end="91" vertical-scroll-proportion="-4.375">
+            <state line="42" column="7" selection-start="1283" selection-end="1283" vertical-scroll-proportion="-13.125">
               <folding />
             </state>
           </provider>
@@ -95,10 +95,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.ejs" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="home.ejs" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/pages/home.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="21" selection-start="70" selection-end="70" vertical-scroll-proportion="0.034207527">
+            <state line="2" column="21" selection-start="70" selection-end="70" vertical-scroll-proportion="-1.25">
               <folding />
             </state>
           </provider>
@@ -122,18 +122,18 @@
         <option value="$PROJECT_DIR$/tests/test.js" />
         <option value="$PROJECT_DIR$/controllers/pages.js" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/views/layout.ejs" />
         <option value="$PROJECT_DIR$/views/pages/about.ejs" />
         <option value="$PROJECT_DIR$/views/pages/home.ejs" />
+        <option value="$PROJECT_DIR$/views/layout.ejs" />
+        <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="64" />
-    <option name="y" value="-4" />
-    <option name="width" value="1857" />
-    <option name="height" value="1085" />
+    <option name="x" value="65" />
+    <option name="y" value="25" />
+    <option name="width" value="1853" />
+    <option name="height" value="518" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -263,13 +263,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-4" width="1857" height="1085" extended-state="6" />
+    <frame x="65" y="25" width="1853" height="518" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1863388" sideWeight="0.67" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18674698" sideWeight="0.67" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -418,20 +418,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="14" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/layout.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="16" selection-start="91" selection-end="91" vertical-scroll-proportion="-4.375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/pages/about.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="21" selection-start="70" selection-end="70" vertical-scroll-proportion="-1.25">
@@ -441,7 +427,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/pages/home.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="21" selection-start="70" selection-end="70" vertical-scroll-proportion="0.034207527">
+        <state line="2" column="21" selection-start="70" selection-end="70" vertical-scroll-proportion="-1.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="7" selection-start="1283" selection-end="1283" vertical-scroll-proportion="-13.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="11" selection-start="420" selection-end="420" vertical-scroll-proportion="0.6287425">
           <folding />
         </state>
       </provider>
