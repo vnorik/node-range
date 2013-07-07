@@ -4,12 +4,12 @@
     <list default="true" id="b20db959-c4ae-40b7-9555-5817e58b477f" name="Default" comment="" />
     <ignored path="node-range.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/app.js" changelist="b20db959-c4ae-40b7-9555-5817e58b477f" time="1373198924367" ignored="false" />
-    <file path="/package.json" changelist="b20db959-c4ae-40b7-9555-5817e58b477f" time="1373192645404" ignored="false" />
+    <file path="/app.js" changelist="b20db959-c4ae-40b7-9555-5817e58b477f" time="1373199675302" ignored="false" />
+    <file path="/package.json" changelist="b20db959-c4ae-40b7-9555-5817e58b477f" time="1373199541638" ignored="false" />
     <file path="/test.js" changelist="b20db959-c4ae-40b7-9555-5817e58b477f" time="1373129036043" ignored="false" />
     <file path="/main.js" changelist="b20db959-c4ae-40b7-9555-5817e58b477f" time="1373128514656" ignored="false" />
     <file path="/server.js" changelist="b20db959-c4ae-40b7-9555-5817e58b477f" time="1373128663665" ignored="false" />
-    <file path="/pages.js" changelist="b20db959-c4ae-40b7-9555-5817e58b477f" time="1373199197526" ignored="false" />
+    <file path="/pages.js" changelist="b20db959-c4ae-40b7-9555-5817e58b477f" time="1373199407873" ignored="false" />
     <file path="/home.ejs" changelist="b20db959-c4ae-40b7-9555-5817e58b477f" time="1373199136977" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +33,7 @@
       <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="22" selection-start="216" selection-end="216" vertical-scroll-proportion="-5.0">
+            <state line="11" column="20" selection-start="208" selection-end="208" vertical-scroll-proportion="-6.875">
               <folding />
             </state>
           </provider>
@@ -59,10 +59,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pages.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pages.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controllers/pages.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="66" selection-start="162" selection-end="162" vertical-scroll-proportion="0.16666667">
+            <state line="11" column="7" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -71,16 +71,34 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="25" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0">
+            <state line="11" column="14" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.ejs" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="layout.ejs" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/layout.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="16" selection-start="91" selection-end="91" vertical-scroll-proportion="-4.375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.ejs" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/pages/about.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="21" selection-start="70" selection-end="70" vertical-scroll-proportion="-1.25">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.ejs" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/pages/home.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="22" selection-start="130" selection-end="130" vertical-scroll-proportion="-3.75">
+            <state line="2" column="21" selection-start="70" selection-end="70" vertical-scroll-proportion="0.034207527">
               <folding />
             </state>
           </provider>
@@ -102,18 +120,20 @@
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/tests/integration/pages.js" />
         <option value="$PROJECT_DIR$/tests/test.js" />
+        <option value="$PROJECT_DIR$/controllers/pages.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/views/layout.ejs" />
+        <option value="$PROJECT_DIR$/views/pages/about.ejs" />
         <option value="$PROJECT_DIR$/views/pages/home.ejs" />
-        <option value="$PROJECT_DIR$/controllers/pages.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="25" />
-    <option name="width" value="1853" />
-    <option name="height" value="454" />
+    <option name="x" value="64" />
+    <option name="y" value="-4" />
+    <option name="width" value="1857" />
+    <option name="height" value="1085" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -217,6 +237,11 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views/pages" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
@@ -238,13 +263,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="25" width="1853" height="454" extended-state="0" />
+    <frame x="64" y="-4" width="1857" height="1085" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18674698" sideWeight="0.67" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1863388" sideWeight="0.67" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -320,22 +345,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tests/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="6" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="26" selection-start="104" selection-end="116" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="21" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0">
@@ -348,11 +357,6 @@
         <state line="4" column="44" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/index.js">
@@ -393,27 +397,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="22" selection-start="216" selection-end="216" vertical-scroll-proportion="-5.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="25" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/pages/home.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="22" selection-start="130" selection-end="130" vertical-scroll-proportion="-3.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/integration/pages.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="38" selection-start="345" selection-end="345" vertical-scroll-proportion="0.0">
@@ -423,7 +406,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/controllers/pages.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="66" selection-start="162" selection-end="162" vertical-scroll-proportion="0.16666667">
+        <state line="11" column="7" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="20" selection-start="208" selection-end="208" vertical-scroll-proportion="-6.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="14" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="16" selection-start="91" selection-end="91" vertical-scroll-proportion="-4.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pages/about.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="21" selection-start="70" selection-end="70" vertical-scroll-proportion="-1.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pages/home.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="21" selection-start="70" selection-end="70" vertical-scroll-proportion="0.034207527">
           <folding />
         </state>
       </provider>
